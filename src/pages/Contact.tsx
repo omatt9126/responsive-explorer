@@ -3,7 +3,7 @@ import React from 'react';
 const Contact: React.FC = () => {
   return (
     <div>
-      {/* Content goes here */}
+      <h1>Contact</h1>
     </div>
   );
 };
